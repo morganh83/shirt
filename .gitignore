@@ -1,0 +1,6 @@
+*.json
+*.txt
+*.zip
+shodan/
+client/
+__pycache__/
